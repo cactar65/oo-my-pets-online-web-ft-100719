@@ -64,7 +64,11 @@ class Owner
   end
   
   def list_pets
+<<<<<<< HEAD
     return "I have #{self.dogs.count} dog(s), and #{self.cats.count} cat(s)."
+=======
+    
+>>>>>>> 705900e43d0eabc5a73b1e043e08d1d23c7a34e0
   end
   
 end
